@@ -1,7 +1,7 @@
 # int a = 5
 # string b = "hello"
 
-tablica = [1,3,6,2, "hello"]
+tablica = [1,3,2,2, "hello"]
 
 
 def main():
